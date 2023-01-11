@@ -1,11 +1,10 @@
-# Project Title
-Contador App
+# Contador App
 
 ## Description:
 App made for practicing React Native Programming
 
-Official Site (https://reactnative.dev/)
-Git Hub (https://github.com/facebook/react-native)
+- Official Site (https://reactnative.dev/)
+- Git Hub (https://github.com/facebook/react-native)
 
 ## About The App
 [Contador App] is an app that is a counter
