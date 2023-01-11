@@ -9,8 +9,6 @@ App made for practicing React Native Programming
 ## About The App
 [Contador App] is an app that is a counter
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
-
 ## Setup
 - download or clone the repository
 - go project root folder and run `npm install`
